@@ -1,0 +1,23 @@
+h3 {
+  color: blue;
+  background-color: aquamarine;
+  font-size: 30px;
+  text-align: center;
+}
+
+.coloum {
+  background-color: yellow;
+  column-count: 4;
+  column-gap: 100px;
+}
+li {
+  text-shadow: 2px 2px 5px red;
+}
+
+div P {
+  color: red;
+}
+
+p {
+  color: green;
+}
